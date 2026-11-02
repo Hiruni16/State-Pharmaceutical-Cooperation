@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="State_Pharmaceutical_Cooperation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="State_Pharmaceutical_Cooperation_localhost_SPCService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44319/SPCService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
