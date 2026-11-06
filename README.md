@@ -113,4 +113,3 @@ This approach supports scalability, high availability, automated deployment, and
 ## Author
 
 **D.M. Chathurya Hiruni Gunathilaka**
-
