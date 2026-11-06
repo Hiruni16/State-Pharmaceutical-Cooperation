@@ -114,6 +114,3 @@ This approach supports scalability, high availability, automated deployment, and
 
 **D.M. Chathurya Hiruni Gunathilaka**
 
----
-
-*This project was developed as part of the Service Oriented Computing academic coursework.*
